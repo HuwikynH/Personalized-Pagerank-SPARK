@@ -1,4 +1,5 @@
 ### Hướng dẫn cài đặt Apache Spark và PySpark trên Windows
+---
 
 #### BƯỚC 1: Cài Java JDK
 - **Tải JDK 11**: Tải bản JDK 11 từ trang chính thức (https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) hoặc dùng OpenJDK.
