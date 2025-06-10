@@ -1,7 +1,3 @@
-Hướng dẫn cài đặt Apache Spark và PySpark trên Windows.
-
----
-
 ### Hướng dẫn cài đặt Apache Spark và PySpark trên Windows
 
 #### BƯỚC 1: Cài Java JDK
